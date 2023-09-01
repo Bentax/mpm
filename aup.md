@@ -2,7 +2,7 @@
 
 # Acceptable Use Policy [Last updated 1.09.2023]
 
-At sealydoc.com, we are committed to protecting the privacy and security of our users. This privacy policy outlines how we collect, use, and protect the information we gather.
+At marcopolomarketing.com, we are committed to protecting the privacy and security of our users. This privacy policy outlines how we collect, use, and protect the information we gather.
 Information we collect:
 - User name
 - User e-mail
@@ -51,4 +51,4 @@ Age of Consent By using this site, you represent that you are at least the age o
 Changes to this Privacy Policy 
 We reserve the right to modify this privacy policy at any time, so please review it frequently. 
 Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it. If our site is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
-QUESTIONS AND CONTACT INFORMATION If you would like to: access, correct, amend, or delete any personal information we have about you, register a complaint, or simply want more information to contact our Privacy Compliance Officer at office@sealydoc.com
+QUESTIONS AND CONTACT INFORMATION If you would like to: access, correct, amend, or delete any personal information we have about you, register a complaint, or simply want more information to contact our Privacy Compliance Officer at https://t.me/VTeasy
